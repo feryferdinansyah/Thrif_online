@@ -76,11 +76,9 @@ body {
 }
 .navbar .navbar-extra input {
   color: #fff;
-  margin: 2 0.5rem;
-  padding: 0.2rem;
   position: relative;
   background: none;
-  border: 1px solid #fff;
+  border-bottom: 1px solid #fff;
   width: 50%;
 }
 .navbar .navbar-extra a:hover {
